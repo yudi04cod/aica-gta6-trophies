@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","note":"Cover: header with progress (12 of 55 earned), roadmap stages and the start of the trophy list","path":"/","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","note":"Positive Mental Attitude open: guide, missable flag and its cited sources","path":"/#trophy-28","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","note":"The roadmap to the platinum, all four stages with trophy chips","path":"/#roadmap","viewport":{"height":800,"width":1280}},{"file":"4-spoiler.jpg","note":"Spoiler mode on: hidden story trophies masked until earned, filters visible","path":"/","viewport":{"height":800,"width":1280}}]

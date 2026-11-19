@@ -3,23 +3,97 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>Leonida Trophy Guide — GTA VI (PS5): all 55 trophies, roadmap &amp; tracker</title>
+<meta name="description" content="An offline guide and tracker for every PlayStation 5 trophy of Grand Theft Auto VI: official names, descriptions and grades, a cited guide for each, a roadmap to the platinum, missable flags, and a checklist that saves in your browser.">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="hero">
+  <p class="eyebrow">Grand Theft Auto VI &middot; PlayStation 5 &middot; works offline</p>
+  <h1>Leonida Trophy Guide</h1>
+  <p class="lede">All 55 trophies — 1 platinum, 2 gold, 6 silver, 46 bronze — with a guide for each one, a roadmap to the platinum, and a checklist that remembers your progress. Names, descriptions and grades are PlayStation's own; every guide is written for this page and cites its sources.</p>
+  <div class="progress-wrap" aria-label="Progress">
+    <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+    <p class="progress-text" id="progressText">0 of 55 earned</p>
+  </div>
+  <p class="stats" id="gradeStats"></p>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+
+<main>
+  <section class="panel" id="warnings" aria-label="Before you start">
+    <h2>Before you start</h2>
+    <ul>
+      <li><strong>One playthrough is enough.</strong> No online trophies, no difficulty trophies, no DLC trophies, and free roam carries on after the credits.</li>
+      <li><strong>No mission replay.</strong> Keep a manual save at the start of every chapter and one before the final mission.</li>
+      <li><strong>One possibly missable trophy:</strong> <em>Positive Mental Attitude</em> — do Lucia's balcony meditation in Chapter 1 (see its guide). Everything else can be done after the story.</li>
+      <li><strong>Cheats switch trophies off.</strong> Turning on a cheat disables trophies (and saving), so keep them off a trophy run.</li>
+      <li><strong>About 200 hours</strong> to the platinum, most of it on the 100% checklist.</li>
+    </ul>
+  </section>
+
+  <section class="panel" id="roadmap" aria-label="Roadmap to the platinum">
+    <h2>Roadmap to the platinum</h2>
+    <p class="muted">Four stages, in order. Click a trophy chip to open its guide.</p>
+    <div id="roadmapStages" class="stages"></div>
+  </section>
+
+  <section class="panel controls" aria-label="Tracker controls">
+    <h2>Tracker</h2>
+    <div class="control-row">
+      <label class="search">Search
+        <input id="search" type="search" placeholder="Trophy name, mission, place…" autocomplete="off">
+      </label>
+      <label>Kind
+        <select id="kind">
+          <option value="all">All kinds</option>
+          <option value="story">Story</option>
+          <option value="side">Side quests</option>
+          <option value="collectibles">Collectibles</option>
+          <option value="activities">Activities</option>
+          <option value="free-roam">Free-roam</option>
+          <option value="completion">Platinum &amp; 100%</option>
+          <option value="online">Online</option>
+        </select>
+      </label>
+      <label>Grade
+        <select id="grade">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="check"><input id="missableOnly" type="checkbox"> Missable only</label>
+      <label class="check"><input id="hideEarned" type="checkbox"> Hide earned</label>
+      <label class="check" title="Hides the names and descriptions of hidden story trophies until you earn them"><input id="spoilers" type="checkbox"> Hide story spoilers</label>
+    </div>
+    <div class="control-row">
+      <button id="exportBtn" type="button">Export progress</button>
+      <label class="import-btn">Import progress <input id="importFile" type="file" accept="application/json,.json"></label>
+      <button id="resetBtn" type="button" class="danger">Reset progress</button>
+      <span class="muted" id="filterCount"></span>
+    </div>
+    <p class="muted small">Progress saves in this browser (localStorage). Export writes a JSON file you can import back on any device. Nothing leaves your browser — the page fetches nothing at run time.</p>
+  </section>
+
+  <section aria-label="Trophy list">
+    <div id="trophyList" class="trophy-list"></div>
+    <p class="empty hidden" id="emptyState">No trophies match these filters. Try clearing the search or the filters.</p>
+    <p class="empty hidden" id="onlineState">There are no online trophies. All 55 are single-player, so the whole list is earnable offline.</p>
+  </section>
+
+  <section class="panel" aria-label="About this guide">
+    <h2>About this guide</h2>
+    <p>Official trophy names, descriptions and grades are as PlayStation publishes them, taken 18 November 2026 from Exophase and cross-checked with PSNProfiles and TrueAchievements. Each guide is written for this page in our own words and names its sources beside it; where a step is still unconfirmed, the guide says so instead of guessing. The look is our own — no Rockstar logo, artwork or game screenshots.</p>
+    <p class="muted small">Sources used across this guide: GTA Base — GTA 6 Trophy Guide; Planet GTA 6 — GTA 6 Trophies; Output Lag — GTA 6 Trophy List; KeenGamer — GTA 6 Trophy Guide &amp; Platinum Roadmap; CryptoGames — GTA 6 Trophies and Achievements. Each trophy lists the sources its own guide draws on.</p>
+  </section>
+</main>
+
+<footer>
+  <p>Leonida Trophy Guide — an unofficial fan guide. Grand Theft Auto and GTA are trademarks of Take-Two Interactive; this guide is not affiliated with or endorsed by Rockstar Games.</p>
+</footer>
+
 <script type="module" src="app.js"></script>
 </body>
 </html>

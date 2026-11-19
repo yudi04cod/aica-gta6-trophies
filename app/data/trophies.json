@@ -1,392 +1,931 @@
 {
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "The official 55 trophies as published on PlayStation Network, taken 18 November 2026 from Exophase and cross-checked with PSNProfiles and TrueAchievements (Planet GTA 6). Names, descriptions and grades are PlayStation's own; the guides are written for this page in our own words.",
+  "counts": { "total": 55, "platinum": 1, "gold": 2, "silver": 6, "bronze": 46, "hidden": 28, "visible": 27, "online": 0 },
+  "roadmap": [
+    { "stage": 1, "title": "Story first — Chapters 1 to 5", "text": "Play the story and take side content as it appears. Every chapter and mission trophy lands here, and the one missable moment hides in Chapter 1, so save at the start of each chapter: there is no mission replay." },
+    { "stage": 2, "title": "Two of you — after Coffee Break", "text": "Once Jason and Lucia are together, the partner trophies, the robberies and most free-roam trophies open up. Work the activities (races, shooting ranges, stunts) alongside the story." },
+    { "stage": 3, "title": "Leonida, mapped — collectibles and exploration", "text": "WAiNK scans, card sets, vehicles, meditation spots and the whole map. These are all still there after the credits, so there is no rush — except the Chapter 1 meditation in stage 1." },
+    { "stage": 4, "title": "Clean-up — the 100% checklist", "text": "After the credits, open Progress, then Stats, then 100% Completion, and work what is left. Finish the stranger strands too. The platinum pops when the last trophy does." }
+  ],
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "hidden": false,
+      "gamerscore": 0,
+      "kind": "platinum",
+      "missable": false,
+      "count": null,
+      "stage": 4,
+      "guide": "Earn the other 54 trophies and this one pops on its own. Budget around 200 hours: the story alone runs about 60 hours, and most of the rest goes to the 100% checklist behind A Long Road. Everything is single-player, there are no difficulty settings and one playthrough is enough.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Planet GTA 6 — GTA 6 Trophies", "url": "https://www.planetgta6.com/en/gta-6-trophies/" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 5,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Finish Gone Fishing, one of the first missions of Chapter 1. It is a story trophy, so it cannot be missed — just keep playing.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Planet GTA 6 — GTA 6 Trophies", "url": "https://www.planetgta6.com/en/gta-6-trophies/" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 20,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Play through Chapter 1 to the end. The trophy lands once you have started Chapter 2, with its first mission, What's in the Bag?",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 20,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Play through Chapter 2 to the end. It is awarded as Chapter 3 begins, after the mission Welcome to Vice City.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 20,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Play through Chapter 3 to the end. It arrives after the first two missions of Chapter 4, Ocean Beach and Another Life.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 20,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Play through Chapter 4 to the end. A story trophy: it cannot be missed.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "hidden": true,
+      "gamerscore": 50,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Finish the last mission of the story. Free roam carries on after the credits, so every other trophy can still be cleaned up afterwards. There is no mission replay, but no trophy depends on how you play a mission.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Planet GTA 6 — GTA 6 Trophies", "url": "https://www.planetgta6.com/en/gta-6-trophies/" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 10,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Complete Breakfast Run, a Chapter 2 story mission. It pops when the mission ends.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 25,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Complete The Cartel Heist, a Chapter 3 story mission. A story trophy, so it cannot be missed.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 15,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Complete Child's Play, a Chapter 4 story mission. It pops when the mission ends.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 15,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Complete Headliners, a Chapter 4 story mission. A story trophy, so it cannot be missed.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 25,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Complete VCIA Takedown, a Chapter 4 story mission. It pops when the mission ends.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 25,
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Complete Operation Savage Glory, a Chapter 5 story mission. A story trophy, so it cannot be missed.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "hidden": false,
+      "gamerscore": 100,
+      "kind": "completion",
+      "missable": false,
+      "count": null,
+      "stage": 4,
+      "guide": "The hardest trophy. Open Progress, then Stats, then 100% Completion — the checklist only shows after the story, but everything you did before already counts, and nothing on it is missable. It wants, in full: every robbery (including 8 bank vaults and 39 gang operations), the underwater finds, every Shooting Range gold medal, all drone races and Bret's 15 Target Decks. The rest is a share: 100 optional missions, 200 of 277 vehicle scans, 100 of 255 animal studies, 15 of 18 meditations, 70 of 80 challenges, 300 stunts and 100 WAiNK scans. Work it after the credits; the other trophies on this page feed straight into it.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Planet GTA 6 — GTA 6 Trophies", "url": "https://www.planetgta6.com/en/gta-6-trophies/" }
+      ]
+    }
+    ,
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "hidden": false,
+      "gamerscore": 40,
+      "kind": "activities",
+      "missable": false,
+      "count": 250,
+      "count_label": "250 of 397 stunts",
+      "stage": 2,
+      "guide": "Pull off any 250 of the 397 stunts in the game: 130 stunt jumps, 202 flights under bridges, 40 knife flights and 25 base jumps. Flying under bridges is the quickest way to build the count, and the optional challenge on each stunt is not needed. Check your count under Progress, then Activities, then Stunts; the map can show every Stunt Spot. The 100% checklist wants 300, so keep going past this one.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Planet GTA 6 — GTA 6 Trophies", "url": "https://www.planetgta6.com/en/gta-6-trophies/" }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 20,
+      "kind": "activities",
+      "missable": false,
+      "count": 9,
+      "count_label": "9 activity types",
+      "stage": 2,
+      "guide": "Try all 9 activity types once: fishing, hunting, golf, a shooting range, pool, basketball (sink one basket), an arcade game, winning a race (a car race, a race challenge or a Top Fun drone race) and a stunt. Progress, then Activities, shows what is left. Most of these happen naturally while you play.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "hidden": false,
+      "gamerscore": 40,
+      "kind": "activities",
+      "missable": false,
+      "count": 42,
+      "count_label": "42 gold medals, 12 ranges",
+      "stage": 2,
+      "guide": "Earn a gold medal in every Shooting Range challenge: 42 golds across 12 ranges. The ranges also raise your Focus level, which helps with Gunslinger. Take them one range at a time and replay a challenge until the gold score lands.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Planet GTA 6 — GTA 6 Trophies", "url": "https://www.planetgta6.com/en/gta-6-trophies/" }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 15,
+      "kind": "activities",
+      "missable": false,
+      "count": 14,
+      "count_label": "14 locations",
+      "stage": 2,
+      "guide": "Win a Top Fun drone race at each of the 14 locations — one win per location is enough for this trophy. The 100% checklist wants all 42 drone races, so finish every race at a location while you are there instead of coming back later.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 20,
+      "kind": "activities",
+      "missable": false,
+      "count": 20,
+      "count_label": "20 of 40 races",
+      "stage": 2,
+      "guide": "Win 20 different races; there are 40 to choose from. Winning the same race again does not count, so keep moving to new ones.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 10,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "After you meet Cal in the Chapter 1 mission Feng Shui, he texts you and marks a fishing spot with a purple icon. Play through his fishing quests, then beat him in his challenge.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 10,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Reach the end of any one arcade game. Three of them — Tenebrae Lux, Street Trash III and Time Jackers Rewind — are on the TV at home, and the fourth, Bang For Your Buck, is on arcade cabinets around Leonida. Pick whichever you enjoy most; only one completion counts.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 15,
+      "kind": "side",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Andy's quests are Lucia-only and start in Chapter 3, when he texts her an address in Belville. Do all five in order — Climbing the Cellerichain, Pay the Cellerica Fee, Peach!, Read the Label and Puff Puff Pass — and the last one awards the trophy. They are still there after the story.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 15,
+      "kind": "side",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Kenton (green KR icon in Key Lento) hires you in Chapter 1 to recover treasure from 7 shipwrecks. Dive at the purple chest markers and use the metal detector to dig it up. He disappears after Chapter 1 but texts Jason again later, so you can finish it then. Track it under Progress, then Collections, then Kenton's Treasures.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 15,
+      "kind": "side",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Billy's five jobs start at the Thrillbilly Mudclub in Kelly County after the Chapter 2 mission Coffee Break. The fifth, Hometown Heroes, unlocks the trophy. They stay available after the story.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "hidden": false,
+      "gamerscore": 30,
+      "kind": "side",
+      "missable": false,
+      "count": 8,
+      "count_label": "8 stranger strands",
+      "stage": 3,
+      "guide": "Finish 8 qualifying stranger strands. Kirk, Kyle, Yago and Pilot Pete count; the quest lines of Moses, Tyrone, Yasmani, Andy, Billy and Eddie do not. Which other strands qualify is still being confirmed, so check the progress counter in your trophy list as you go. None of them are needed for 100%, and all of them stay available after the story.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/" }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 20,
+      "kind": "side",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Randy's Wish List opens after the Chapter 3 mission that gets you the Key Cloner (Clonin' Keys, Makin' GS). Deliver the 16 sports cars on his list to his garage in west Vice City (RK icon). Scan cars with the WAiNK app to see if they are on the list; hotel driveways around Vice Beach and Ocean Beach are the best places to look. Cars in better condition pay more.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 15,
+      "kind": "side",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Jason-only. After Here, Kitty Kitty in Chapter 3, Tyrone has you destroy the synthetic labs marked in purple around Vice City. Once enough are gone, his last job, Shut Down the Labs, awards the trophy.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 10,
+      "kind": "collectibles",
+      "missable": true,
+      "missable_note": "The only trophy reported as possibly missable. In Chapter 1, the morning after Down to Earth, follow Lucia from the kitchen to the balcony and accept her meditation. It is gone after Chapter 1, and it is not confirmed yet whether the trophy needs it — so do not skip it.",
+      "count": 18,
+      "count_label": "18 meditation spots",
+      "stage": 1,
+      "guide": "Meditate at every Meditation Spot until the counter reaches 18; meditating at a spot with Jason and Lucia together counts twice. The last one needs both characters, which is possible after Coffee Break in Chapter 2. Track it under Progress, then Collections, then Exploration, then Meditations. The missable part: in Chapter 1, the morning after Down to Earth, follow Lucia from the kitchen to the balcony and accept her meditation — that moment is gone after Chapter 1, and whether the trophy needs it is still unconfirmed, so do not skip it.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Output Lag — GTA 6 Trophy List", "url": "https://outputlag.com/guides/gta-6-trophy-list/" },
+        { "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/" }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 15,
+      "kind": "side",
+      "missable": false,
+      "count": null,
+      "stage": 1,
+      "guide": "Bret's hunting quests start after Coffee Break in Chapter 2: he texts Jason, and Veteran Hunted in Lummox County kicks things off. Hunt the animals on his Target Decks (purple icons) and bring them back as Jason. A clean one-shot kill pays more but is not required. Which animal triggers the trophy is not confirmed yet; the 100% checklist needs all 15 Target Decks anyway, so work through them all.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "hidden": false,
+      "gamerscore": 30,
+      "kind": "collectibles",
+      "missable": false,
+      "count": 3,
+      "count_label": "3 card sets",
+      "stage": 3,
+      "guide": "Complete any 3 Collectible Card sets — you do not need all of them. The Collections section of the Progress menu shows how close each set is, so chase the sets you are nearest to finishing.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    }
+    ,
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "hidden": false,
+      "gamerscore": 30,
+      "kind": "collectibles",
+      "missable": false,
+      "count": 100,
+      "count_label": "100 WAiNK locations",
+      "stage": 3,
+      "guide": "Scan 100 WAiNK spots with the WAiNK phone app (hold Up on the D-pad, then R1 / RB). Any 100 count, drawn from the 31 Landmarks, 35 Curiosities, 23 Sculptures and the No Flusher tags. Scan as you travel and the count climbs on its own.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 5,
+      "kind": "activities",
+      "missable": false,
+      "count": 50,
+      "count_label": "50 of 80 challenges",
+      "stage": 2,
+      "guide": "Complete 50 of the 80 Challenges; Progress, then Challenges, marks finished ones with a tick. Many complete themselves while you play, and the 100% checklist needs 70, so this one comes along the way — check the list late in the game and mop up the easy ones left.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 20,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "This needs both characters together (after Coffee Break in Chapter 2). Call your partner (hold Right on the D-pad, then Triangle / Y), build a 4-star Wanted Level and escape — it only counts once you are out of the red heat zone. The train tunnel north of Ambrosia in Kelly County shakes off cops and helicopters well. Bank vault robberies always give 4 stars, so it often unlocks there.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 20,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "With your partner, rob 3 shops in a row while you are still wanted (flashing red and blue). Go in with body armor, sticky bombs and healing items. The 3 jewelry stores in north Vice City (open after Yasmani's Jewelry Jobs in Chapter 3) sit close together. It can take about 30 seconds to pop after the third shop; if it does not, rob a fourth.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 20,
+      "kind": "collectibles",
+      "missable": false,
+      "count": 100,
+      "count_label": "100 vehicles (200 for 100%)",
+      "stage": 3,
+      "guide": "Scan 100 different vehicles with the WAiNK app; you do not need to drive them. Stand next to a busy road and scan passing traffic. The 100% checklist needs 200 base models, so you will get this anyway on the road to A Long Road.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 10,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "Down 5 enemies in a single Combat Focus (click both sticks while aiming). It only lasts a few seconds, so fill your Focus first — eat, drink or wash up at home; Adrenaline makes it last longer — and use an assault rifle. Gang-operation thugs work well; cops, soldiers and civilians do not seem to count.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 10,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "At VCIA, steal one of the big passenger jets docked at a departure gate's boarding bridge — planes parked out on the airfield do not count. Back it out, take off and get about 1 km away from the airport. Gates E3 and E4 are the easiest: drive through the airfield fence and use the door by the stairs next to the boarding bridge.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 10,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "Steal a tank from Mile Zero Air Station on the southwest island of Mariana County — the tanks are at the south end of the base — and take out enemies from inside it until the trophy pops.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 10,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "Yasmani's Jewelry Jobs in Chapter 3 give you the Snap Gun. Use it on a jewelry store's locked back door — kicking it in sets off the alarm — then find the note with the safe code in the back room and empty the safe without being spotted. Richardson Jewelry & Diamonds in Vice City works well.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "hidden": false,
+      "gamerscore": 40,
+      "kind": "free-roam",
+      "missable": false,
+      "count": 5,
+      "count_label": "5 of 8 bank vaults",
+      "stage": 2,
+      "guide": "Bank vaults open up with the optional Chapter 4 mission That's Where The Money Is…. Follow a security van to its bank and get into the vault while it is open. The haul is too heavy for one character, so hand a bag to your partner. Vaults always give 4 stars: escape on a fast bike, then switch vehicles. 5 of the 8 vaults are enough here, but the 100% checklist needs all 8, and each pays up to $205,000. Yasmani sells van tips for $10,000.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 10,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "Robbing a bank vault (see Maximum Withdrawal) counts, as long as you then escape the red heat zone or get to a Pay 'n' Spray. Before vaults open, you can box in an armored truck, put a sticky bomb on its back doors, blow them open and get away.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 20,
+      "kind": "collectibles",
+      "missable": false,
+      "count": null,
+      "stage": 3,
+      "guide": "Clear the fog from the whole map of Leonida. The quickest way is by plane, flying over every dark patch until the map is fully revealed.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Planet GTA 6 — GTA 6 Trophies", "url": "https://www.planetgta6.com/en/gta-6-trophies/" }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 20,
+      "kind": "free-roam",
+      "missable": false,
+      "count": 9,
+      "count_label": "9 gangs (39 operations for 100%)",
+      "stage": 2,
+      "guide": "Rob one illegal gang operation (yellow map icons) from each of the 9 gangs; Progress, then Gangs, keeps count. The 100% checklist needs all 39 operations, so keep hitting them after this pops.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 5,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "Have a cocktail at a spot with a view on Ocean Beach in Vice City. The exact steps are not confirmed yet — the guide this cites lists this one as unconfirmed — so treat any specific bar or prompt as unverified until players pin it down, and check the sources below for updates.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Output Lag — GTA 6 Trophy List", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 5,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "The description points to crashing a car out through the window of a vehicle showroom. The exact steps are not confirmed yet — the guide this cites lists this one as unconfirmed — so do not trust a specific showroom or method until players verify one, and check the sources below for updates.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Output Lag — GTA 6 Trophy List", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    }
+    ,
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 5,
+      "kind": "activities",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "Kingpin Bowling in Port Gellhorn is a gang operation, first marked by Hit Kingpin Bowling in Chapter 2. Take its three valuables: the luxury watch in the southeast office, the Gutterball Moreland 850 shotgun on the northeast table, and the safe in the northeast hallway (bring sticky bombs). The trophy pops once you lose the police. You do not need all three in one visit, but the robbery takes a long time to come back.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 5,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "Max out Strength for both Jason and Lucia (Jason & Lucia, then Strength, in the pause menu). Work out at fitness clubs (Map, then Activities) with your partner along: training one trains the other too. After the story you can also train at home.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 5,
+      "kind": "free-roam",
+      "missable": false,
+      "count": 500,
+      "count_label": "500 profile actions",
+      "stage": 2,
+      "guide": "Make 500 actions that change your Criminal Profile. Most players get it without trying; turn on Criminal Profile notifications in Settings, then UI, to watch the count. Do not push towards the Irredeemable profile: it is permanent.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 5,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "\"Second time's the charm\" suggests succeeding at something on a second attempt. The exact steps are not confirmed yet — the guide this cites lists this one as unconfirmed — so do not trust a specific method until players verify one, and check the sources below for updates.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Output Lag — GTA 6 Trophy List", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 5,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "Expect a strange event or Easter egg somewhere in Leonida. The exact steps are not confirmed yet — the guide this cites lists this one as unconfirmed — so do not trust a specific location until players verify one, and check the sources below for updates.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Output Lag — GTA 6 Trophy List", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "hidden": true,
+      "gamerscore": 5,
+      "kind": "free-roam",
+      "missable": false,
+      "count": null,
+      "stage": 2,
+      "guide": "The description points to knocking people down with a melee attack from a vehicle — a melee drive-by. The exact steps are not confirmed yet — the guide this cites lists this one as unconfirmed — so do not trust a specific method until players verify one, and check the sources below for updates.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" },
+        { "name": "Output Lag — GTA 6 Trophy List", "url": "https://outputlag.com/guides/gta-6-trophy-list/" }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 20,
+      "kind": "free-roam",
+      "missable": false,
+      "count": 250000,
+      "count_label": "$250,000 laundered",
+      "stage": 2,
+      "guide": "Credit Check (Meet Raul's Crew) in Chapter 3 gets you the Dye Pack Jammer. Rob banks and Payday Loans, then sell the marked bills to fences; Yasmani in Vice City pays the most. It is a running total, so the robberies for 100% get you there.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 15,
+      "kind": "free-roam",
+      "missable": false,
+      "count": 100000,
+      "count_label": "$100,000 spent",
+      "stage": 2,
+      "guide": "A running total of $100,000 across every kind of shop. Guns, car mods and tattoos use it up fastest — buy the gear you want anyway and the total takes care of itself.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 15,
+      "kind": "collectibles",
+      "missable": false,
+      "count": 8,
+      "count_label": "8 garages",
+      "stage": 3,
+      "guide": "Buy the 8 garages for sale in the Vice City Real Estate phone app (available after Daily Driver in Chapter 2), about $160,000 in total. The 4 garages the story gives you do not count. You will also want the space for On the Spot registrations.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "hidden": false,
+      "gamerscore": 15,
+      "kind": "free-roam",
+      "missable": false,
+      "count": 10,
+      "count_label": "10 vehicles registered",
+      "stage": 2,
+      "guide": "Moses' Chapter 2 mission gets you the Scooter Bros app. Take stolen vehicles to his garage in Port Gellhorn, respray them and register them. At first he only takes cars without trackers; from Chapter 3, any Pay 'n' Spray registers tracked ones. You need free garage space (see Little Boxes) and each registration costs money, so use cheap cars and bikes.",
+      "sources": [
+        { "name": "GTA Base — GTA 6 Trophy Guide", "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series" }
+      ]
+    }
+  ]
 }
